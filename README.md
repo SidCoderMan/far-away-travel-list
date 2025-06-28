@@ -1,5 +1,7 @@
 This Project was made following the "The Ultimate React Course 2025: React, Next.js, Redux & More" by Jonas Schmedtmann
 
+Travel List Webpage made to learn Lifting State, Deriving State, and how to think in State Management.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
